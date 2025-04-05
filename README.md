@@ -16,3 +16,4 @@ This project is part of the Internship Project at Bank Mandiri. The application 
 * ViewBinding
 
 ## 📱 Overview of the Application
+![Image](https://github.com/user-attachments/assets/7ca74e62-5d98-4d31-94c2-4423acfb86e5)
