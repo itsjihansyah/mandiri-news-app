@@ -1,5 +1,6 @@
 # Mandiri News Application
 This project is part of the Internship Project at Bank Mandiri. The application is built using Android Studio with Kotlin, and it integrates with NewsAPI.org using a REST API to fetch and display real-time news content.
+[![Image](https://github.com/user-attachments/assets/0b178902-6502-4038-8980-b8ac7fc444c5)](https://youtu.be/Ssr8k2Xad50?si=sLeYr2ywRsYOMDDZ "Demo")
 
 ## 🧩 Main Features:
 * Home Page – Displays a brief overview of the top headlines.
